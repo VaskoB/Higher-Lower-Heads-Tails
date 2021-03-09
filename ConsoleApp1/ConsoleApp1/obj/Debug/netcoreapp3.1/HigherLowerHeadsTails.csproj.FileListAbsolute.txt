@@ -1,0 +1,12 @@
+F:\C# Projects\HigherLowerHeadsTails\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\HigherLowerHeadsTails.exe
+F:\C# Projects\HigherLowerHeadsTails\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\HigherLowerHeadsTails.deps.json
+F:\C# Projects\HigherLowerHeadsTails\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\HigherLowerHeadsTails.runtimeconfig.json
+F:\C# Projects\HigherLowerHeadsTails\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\HigherLowerHeadsTails.runtimeconfig.dev.json
+F:\C# Projects\HigherLowerHeadsTails\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\HigherLowerHeadsTails.dll
+F:\C# Projects\HigherLowerHeadsTails\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\HigherLowerHeadsTails.pdb
+F:\C# Projects\HigherLowerHeadsTails\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\HigherLowerHeadsTails.AssemblyInfoInputs.cache
+F:\C# Projects\HigherLowerHeadsTails\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\HigherLowerHeadsTails.AssemblyInfo.cs
+F:\C# Projects\HigherLowerHeadsTails\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\HigherLowerHeadsTails.csproj.CoreCompileInputs.cache
+F:\C# Projects\HigherLowerHeadsTails\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\HigherLowerHeadsTails.dll
+F:\C# Projects\HigherLowerHeadsTails\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\HigherLowerHeadsTails.pdb
+F:\C# Projects\HigherLowerHeadsTails\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\HigherLowerHeadsTails.genruntimeconfig.cache
